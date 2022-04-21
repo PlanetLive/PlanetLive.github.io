@@ -10,6 +10,6 @@ Check that your [copilot access](https://github.com/features/copilot/signup) is 
 
 Click the notification bell icon in the lower right and agree to the Copilot terms.
 
-Paste the following in a 
+Paste the following in a .js page to test autocomplete:
 
 `function findHighestNumber(array) {`
