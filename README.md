@@ -34,6 +34,6 @@ Error: zsh: number expected
 
 ## Amazon Aurora MySQL Database on AWS
 
-[https://aws.amazon.com/quickstart/architecture/aurora-mysql/](Deployment Guide)
+[Deployment Guide](https://aws.amazon.com/quickstart/architecture/aurora-mysql/)
 
 
