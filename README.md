@@ -13,3 +13,7 @@ Click the notification bell icon in the lower right and agree to the Copilot ter
 Paste the following in a .js page to test autocomplete:
 
 `function findHighestNumber(array) {`
+
+## Using Github Copilot to implement Serverless API on AWS
+
+[YouTube](https://www.youtube.com/watch?v=t7vLF9d7gSU)
