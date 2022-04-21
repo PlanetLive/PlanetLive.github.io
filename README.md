@@ -24,7 +24,7 @@ View > Terminal (ctrl`) and run a command to init. For Typescript:
 
 `cdk init --language typescript`
 
-You may need to install the AWS CDK first:
+You may need to [install the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html) first:
 
 <code>npm install aws-cdk-lib</code>  
 <code>npm audit fix</code>  
