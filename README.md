@@ -31,3 +31,9 @@ You may need to [install the AWS CDK](https://docs.aws.amazon.com/cdk/v2/guide/g
 <code>const cdk = require('aws-cdk-lib');</code>
 
 Error: zsh: number expected
+
+## Amazon Aurora MySQL Database on AWS
+
+[https://aws.amazon.com/quickstart/architecture/aurora-mysql/](Deployment Guide)
+
+
