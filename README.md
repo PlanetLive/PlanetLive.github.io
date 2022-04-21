@@ -12,4 +12,4 @@ Click the notification bell icon in the lower right and agree to the Copilot ter
 
 Paste the following in a 
 
-  function findHighestNumber(array) {
+`function findHighestNumber(array) {`
