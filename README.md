@@ -16,10 +16,10 @@ Paste the following in a .js page to test autocomplete:
 
 ## Using Github Copilot to implement Serverless API on AWS
 
-[YouTube](https://www.youtube.com/watch?v=t7vLF9d7gSU)
+Steps from [YouTube](https://www.youtube.com/watch?v=t7vLF9d7gSU) by Pedram Hamidehkhan
 
 Start a new project by choosing "File > Open..." and create a New Folder (mycopilot).  This will be your project root.
 
-Run a command to init. For Typescript:  
+View > Terminal (ctrl`) and run a command to init. For Typescript:  
 
 `cdk init --language typescript`
