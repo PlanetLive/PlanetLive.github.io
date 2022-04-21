@@ -23,3 +23,9 @@ Start a new project by choosing "File > Open..." and create a New Folder (mycopi
 View > Terminal (ctrl`) and run a command to init. For Typescript:  
 
 `cdk init --language typescript`
+
+You may need to install the AWS CDK first:
+
+<code>npm install aws-cdk-lib</code>  
+<code>npm audit fix</code>  
+<code>Import const cdk = require('aws-cdk-lib');</code>
