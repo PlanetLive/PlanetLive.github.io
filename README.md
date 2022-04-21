@@ -1,5 +1,5 @@
-# planetlive
+# planet.live
 
 ## Using GitHub Copilot with AWS Aurora
 
-In VS Code, click the Extension icon on the left and install GitHub Copilot.
+In VS Code, click the Extensions icon on the left and install GitHub Copilot.
