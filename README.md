@@ -4,4 +4,4 @@
 
 In VS Code, click the Extensions icon on the left and install GitHub Copilot.
 
-Sign-in to your GitHub account using your profile icon in lower left.
+Sign-in to your GitHub account within VS Code using your profile icon in lower left.
