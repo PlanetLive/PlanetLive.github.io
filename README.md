@@ -29,3 +29,5 @@ You may need to install the AWS CDK first:
 <code>npm install aws-cdk-lib</code>  
 <code>npm audit fix</code>  
 <code>const cdk = require('aws-cdk-lib');</code>
+
+Error: zsh: number expected
