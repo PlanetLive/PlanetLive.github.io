@@ -18,7 +18,7 @@ Paste the following in a .js page to test autocomplete:
 
 [YouTube](https://www.youtube.com/watch?v=t7vLF9d7gSU)
 
-Start a new project by choosing "File > Open..." and create a New Folder.  This will be your project root.
+Start a new project by choosing "File > Open..." and create a New Folder (mycopilot).  This will be your project root.
 
 Run a command to init. For Typescript:  
 
