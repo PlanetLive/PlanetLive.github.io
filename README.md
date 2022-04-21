@@ -14,6 +14,10 @@ Paste the following in a .js page to test autocomplete:
 
 `function findHighestNumber(array) {`
 
+## How to Build a Fullstack App with Next.js, Prisma, and PostgreSQL (or MySQL)
+
+[Setup steps](https://vercel.com/guides/nextjs-prisma-postgres) - Node.js with TypeScript
+
 ## Using Github Copilot to implement Serverless API on AWS
 
 Additions to steps from [video](https://www.youtube.com/watch?v=t7vLF9d7gSU) by Pedram Hamidehkhan
