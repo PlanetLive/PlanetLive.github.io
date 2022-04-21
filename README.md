@@ -16,7 +16,7 @@ Paste the following in a .js page to test autocomplete:
 
 ## Using Github Copilot to implement Serverless API on AWS
 
-Steps from [video](https://www.youtube.com/watch?v=t7vLF9d7gSU) by Pedram Hamidehkhan
+Additions to steps from [video](https://www.youtube.com/watch?v=t7vLF9d7gSU) by Pedram Hamidehkhan
 
 Start a new project by choosing "File > Open..." and create a New Folder (mycopilot).  This will be your project root.
 
