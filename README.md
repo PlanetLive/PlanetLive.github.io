@@ -1,6 +1,6 @@
 # planet.live
 
-## Using GitHub Copilot with AWS Aurora
+## Using GitHub Copilot
 
 In VS Code, click the Extensions icon on the left and [install](https://github.com/github/copilot-docs)  GitHub Copilot.
 
