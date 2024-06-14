@@ -109,13 +109,46 @@
     height: 700px;
   }
 }
+#showSoundCloud {
+  display: none;
+  z-index: 100;
+  cursor: pointer;
+  position: absolute;
+  bottom: 25px;
+  right: 15px;
+  width: 50px;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: white;
+  font-size: 24px;
+}
 </style>
+
+<div id="showSoundCloud">🔊</div>
 <div id="planetSound">
+  <div style="background-color:rgba(5,5,5,0.5);color:#fff;cursor:pointer;">
+    <div id="hideSoundCloud" class="hideSoundCloud close-X-sm" style="float:right;z-index:1;margin-top:0px">✕</div>
+  </div>
   <!--
   SpaceX Music
   https://soundcloud.com/juandedeboca
   -->
   <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/40641798&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 </div>
+<script>
+document.getElementById('hideSoundCloud').addEventListener('click', function() {
+  document.getElementById('planetSound').style.display = 'none';
+  document.getElementById('showSoundCloud').style.display = 'flex';
+});
+
+document.getElementById('showSoundCloud').addEventListener('click', function() {
+  document.getElementById('planetSound').style.display = 'block';
+  document.getElementById('showSoundCloud').style.display = 'none';
+});
+</script>
 
 </body>
