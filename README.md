@@ -1,8 +1,8 @@
 # planet.live
 
-View math guides at [planet.live/guides](https://planet.live/guides])
+View math guides at [PlanetLive.github.io/guides](https://PlanetLive.github.io/guides)
 
-View AI cinema framework at [planet.live](https://planet.live/seasons])
+View AI cinema framework at [planet.live/seasons](https://planet.live/seasons])
 
 <!-- Main domain resides in DSC/ds -->
 
